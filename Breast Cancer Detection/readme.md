@@ -208,7 +208,7 @@ Phase 2: Unfreeze last 40 layers → lr=1e-5
 
 ## 🎯 Why DenseNet Won
 
-- 1. Dense connections → Better feature reuse
+### Dense connections → Better feature reuse
 
 ### Focal Loss → Focused on hard examples
 
