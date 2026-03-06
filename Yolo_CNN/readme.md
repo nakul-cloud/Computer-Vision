@@ -24,12 +24,12 @@ Complete **production-ready YOLOv8 video detection**! Downloads YouTube Shorts, 
 
 ## 🔄 Pipeline Overview
 
-### 1. 🔧 **Auto-install** tensorflow + ultralytics + yt-dlp
-### 2. 📥 **Download** YouTube Short (yt-dlp)
-### 3. 🧠 **Load YOLOv8** (custom or pretrained)
-### 4. 📹 **Process video** frame-by-frame
-### 5. ✏️ **Draw boxes** + labels
-### 6. 💾 **Save annotated MP4**
+#### 1. 🔧 **Auto-install** tensorflow + ultralytics + yt-dlp
+#### 2. 📥 **Download** YouTube Short (yt-dlp)
+#### 3. 🧠 **Load YOLOv8** (custom or pretrained)
+#### 4. 📹 **Process video** frame-by-frame
+#### 5. ✏️ **Draw boxes** + labels
+#### 6. 💾 **Save annotated MP4**
 
 ## 1. 🔧 Auto-Setup
 
