@@ -29,13 +29,13 @@ Master **image feature matching** end-to-end:
 
 **5 core parts** + **bonus speed test**:
 
-PART 0: Auto-load images (box.png + box_in_scene.png)
-PART 1: SIFT detection (604 green keypoints)
-PART 2: ORB detection (1252 red keypoints)
-PART 3: SIFT matching (604 good matches, L2 distance)
-PART 4: ORB matching (1252 good matches, Hamming distance)
-PART 5: Complete comparison + stats table
-BONUS: Speed benchmark (ORB 2.9× faster!)
+- PART 0: Auto-load images (box.png + box_in_scene.png)
+- PART 1: SIFT detection (604 green keypoints)
+- PART 2: ORB detection (1252 red keypoints)
+- PART 3: SIFT matching (604 good matches, L2 distance)
+- PART 4: ORB matching (1252 good matches, Hamming distance)
+- PART 5: Complete comparison + stats table
+- BONUS: Speed benchmark (ORB 2.9× faster!)
 
  
 
